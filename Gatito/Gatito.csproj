@@ -98,5 +98,29 @@
   <ItemGroup>
     <None Include="Resources\f_01.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\127017.alfabetajuega-pokemon-wallpapers-8-071115.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpapertip_wallpapers-hd-pokemon_813280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpapertip_pokemon-go-hd-wallpaper_812514.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pokemon-in-the-wild.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0428fcf8b4bf9db082f000071b75a009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0428fcf8b4bf9db082f000071b75a0091.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0428fcf8b4bf9db082f000071b75a0092.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

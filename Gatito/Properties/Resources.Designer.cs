@@ -63,6 +63,46 @@ namespace Gatito.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0428fcf8b4bf9db082f000071b75a009 {
+            get {
+                object obj = ResourceManager.GetObject("0428fcf8b4bf9db082f000071b75a009", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _0428fcf8b4bf9db082f000071b75a0091 {
+            get {
+                object obj = ResourceManager.GetObject("0428fcf8b4bf9db082f000071b75a0091", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _0428fcf8b4bf9db082f000071b75a0092 {
+            get {
+                object obj = ResourceManager.GetObject("0428fcf8b4bf9db082f000071b75a0092", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _127017_alfabetajuega_pokemon_wallpapers_8_071115 {
+            get {
+                object obj = ResourceManager.GetObject("127017.alfabetajuega-pokemon-wallpapers-8-071115", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap f_0 {
             get {
                 object obj = ResourceManager.GetObject("f_0", resourceCulture);
@@ -113,9 +153,49 @@ namespace Gatito.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pokemon_in_the_wild {
+            get {
+                object obj = ResourceManager.GetObject("pokemon-in-the-wild", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Reiniciar {
             get {
                 object obj = ResourceManager.GetObject("Reiniciar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wallpapertip_pokemon_go_hd_wallpaper_812514 {
+            get {
+                object obj = ResourceManager.GetObject("wallpapertip_pokemon-go-hd-wallpaper_812514", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wallpapertip_wallpapers_hd_pokemon_813280 {
+            get {
+                object obj = ResourceManager.GetObject("wallpapertip_wallpapers-hd-pokemon_813280", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
